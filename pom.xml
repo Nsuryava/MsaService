@@ -10,6 +10,8 @@
         <version>2.1.4.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
+	
+	<name>MSA Service</name>
 
     <groupId>com.mp.services</groupId>
     <artifactId>msa</artifactId>

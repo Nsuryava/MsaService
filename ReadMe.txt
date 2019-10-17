@@ -11,3 +11,4 @@ $ git push -u origin master
 
 now merging refactored to develop ==> again
 
+usaing newbranchs
